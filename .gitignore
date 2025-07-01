@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+instance/
+received_files/
+.env
+sender_*.pem
+receiver_*.pem
